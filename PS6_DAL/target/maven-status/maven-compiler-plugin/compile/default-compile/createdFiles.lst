@@ -1,0 +1,4 @@
+util\HibernateUtil.class
+util\LocalDateAdapter.class
+base\PersonDAL.class
+domain\PersonDomainModel.class
